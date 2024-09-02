@@ -17,3 +17,4 @@ for i in range(1,len(num)):
     n -= num[i]
     
 print(n)
+#추가함
